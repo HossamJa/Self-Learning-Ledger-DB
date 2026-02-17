@@ -1,0 +1,187 @@
+title,provider,description,issue_date,credential_url,course_id,specialization_id
+Technical Support Fundamentals,Google,"In this course, you’ll be introduced to the world of Information Technology, or IT. You’ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what’s to come in this certificate program.
+
+By the end of this course, you’ll be able to:
+● understand how the binary system works
+● assemble a computer from scratch
+● choose and install an operating system on a computer
+● understand what the Internet is, how it works, and the impact it has in the modern world
+● learn how applications are created and how they work under the hood of a computer
+● utilize common problem-solving methodologies and soft skills in an Information Technology setting",2024-11-11,https://www.coursera.org/verify/FWA4ZEQ3KF1U,1,
+The Bits and Bytes of Computer Networking,Google,"This course is designed to provide a full overview of computer networking. We’ll cover everything from the fundamentals of modern networking technologies and protocols to an overview of the cloud to practical applications and network troubleshooting. 
+
+By the end of this course, you’ll be able to:
+● describe computer networks in terms of a five-layer model
+● understand all of the standard protocols involved with TCP/IP communications
+● grasp powerful network troubleshooting tools and techniques
+● learn network services like DNS and DHCP that help make computer networks run
+● understand cloud computing, everything as a service, and cloud storage",2024-11-17,https://www.coursera.org/account/accomplishments/certificate/2F8UTWXCSB24,2,
+Operating Systems and You: Becoming a Power User,Google,"Through a combination of video lectures, demonstrations, and hands-on practice, this course will teach learners about the main components of an operating system and how to perform critical tasks like managing software and users and configuring hardware.
+
+By the end of this course you’ll be able to:
+● navigate the Windows and Linux filesystems using a graphical user interface and command line interpreter
+● set up users, groups, and permissions for account access
+● install, configure, and remove software on the Windows and Linux operating systems
+● configure disk partitions and filesystems
+● understand how system processes work and how to manage them
+● work with system logs and remote connection tools
+● utilize operating system knowledge to troubleshoot common issues in an IT Support Specialist role",2024-11-23,https://www.coursera.org/account/accomplishments/certificate/2TX19VMJW3B7,3,
+System Administration and IT Infrastructure Services,Google,"This course will transition you from working on a single computer to an entire fleet. Systems administration is the field of IT that’s responsible for maintaining reliable computers systems in a multi-user environment. In this course, you’ll learn about the infrastructure services that keep all organizations, big and small, up and running. We’ll deep dive on cloud so that you’ll understand everything from typical cloud infrastructure setups to how to manage cloud resources. You'll also learn how to manage and configure servers and how to use industry tools to manage computers, user information, and user productivity. Finally, you’ll learn how to recover your organization’s IT infrastructure in the event of a disaster.
+
+By the end of this course you’ll be able to:
+● utilize best practices for choosing hardware, vendors, and services for your organization
+● understand how the most common infrastructure services that keep an organization
+   running work, and how to manage infrastructure servers
+● understand how to make the most of the cloud for your organization
+● manage an organization’s computers and users using the directory services, Active
+    Directory, and OpenLDAP
+● choose and manage the tools that your organization will use
+● backup your organization’s data and know how to recover your IT infrastructure in the case of
+a disaster
+● utilize systems administration knowledge to plan and improve processes for IT environments",2024-11-28,https://www.coursera.org/account/accomplishments/certificate/KVJDCHCQ9IO3,4,
+IT Security: Defense against the digital dark arts,Google,"This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and the many ways they can show up. We’ll give you some background of encryption algorithms and how they’re used to safeguard data. Then, we’ll dive into the three As of information security: authentication, authorization, and accounting. We’ll also cover network security solutions, ranging from firewalls to Wifi encryption options. The course is rounded out by putting all these elements together into a multi-layered, in-depth security architecture, followed by recommendations on how to integrate a culture of security into your organization or team.
+
+At the end of this course, you’ll understand:
+● how various encryption algorithms and techniques work as well as their benefits and limitations.
+● various authentication systems and types.
+● the difference between authentication and authorization.
+● how to evaluate potential risks and recommend ways to reduce risk.
+● best practices for securing a network.
+● how to help others to grasp security concepts and protect themselves.
+● new AI skills from Google experts to help complete IT tasks.",2024-12-05,https://www.coursera.org/account/accomplishments/certificate/TCGARH701EC8,5,
+Accelerate Your Job Search with AI,Google,"Uncover your skills and explore new career possibilities, with support from tools like Career Dreamer.
+
+Keep your applications organized with Google Sheets.
+
+Build a stand out resume and a step-by-step job search plan—with help from Gemini.
+
+Prepare for interviews and practice responding to questions using NotebookLM and Gemini Live.",2025-09-09,https://www.coursera.org/account/accomplishments/certificate/XE31A9OAPOVF,6,
+Google IT Support Professional Certificate,Google,"Gain skills required to succeed in an entry-level IT job
+
+Learn to perform day-to-day IT support tasks including computer assembly, wireless networking, installing programs, and customer service
+
+Learn how to provide end-to-end customer support, ranging from identifying problems to troubleshooting and debugging
+
+Learn to use systems including Linux, Domain Name Systems, Command-Line Interface, and Binary Code",2024-12-05,https://www.coursera.org/account/accomplishments/professional-cert/DRUU2ZRRA7QB,,1
+Introduction to Technical Support,IBM,"Define technical support, tech support, IT support, customer support mindset, the various levels of IT support, and the escalation matrix 
+
+Discover soft and technical skills required and opportunities available for a career in Technical Support
+
+Explore the features and benefits of ticketing systems
+
+Identify the various methodologies and frameworks popular in technical support",2025-08-17,https://www.coursera.org/account/accomplishments/certificate/BIER2XZ0241W,7,
+Introduction to Hardware and Operating Systems,IBM,"Identify the hardware components of desktops, laptops, and other devices, plus operating system functions, settings, and troubleshooting processes
+
+
+Explore ports, connectors, storage devices, and GPU architectures, and assess appropriate processing and hardware solutions for applications
+
+
+Develop secure IoT integration strategies for wearable devices and smart tech, using effective device management and cybersecurity principles.
+
+ 
+
+Evaluate VR and AR technologies for organizational use, assessing hardware requirements, deployment considerations, and practical applications.",2025-08-17,https://www.coursera.org/account/accomplishments/certificate/D322B4SS5I0N,8,
+"Introduction to Software, Programming, and Databases",IBM,"Classify, install, and administer software applications and tools, including those used on mobile operating systems
+
+
+Learn foundational concepts in cloud services, browser technologies, and software development models, techniques, and best practices
+
+
+Utilize core database concepts using the principles of database management and perform basic operations to interface with and maintain databases
+
+
+Understand how AI enables intelligent tools such as chatbots, virtual assistants, and generative applications to solve real-world problems",2025-08-17,https://www.coursera.org/account/accomplishments/certificate/4Z45L3WPQCHF,9,
+Introduction to Networking and Storage,IBM,"Explain wired and wireless network types, topologies, cable categories, IP addressing, packet flow, and core protocols
+
+
+Configure secure networks and mobile devices using encryption standards and troubleshooting tools, including the command prompt and Windows Settings
+
+
+Explore memory and storage technologies, including RAM, ROM, RAID, STaaS, file/block/object storage, USB4, and NVMe, andtroubleshooting methods
+
+
+Apply NFC operating modes, Wi-Fi security protocols, and device integration techniques to evaluate modern networking and storage solutions",2025-08-18,https://www.coursera.org/account/accomplishments/certificate/TDD26G0GJ5OQ,10,
+Introduction to Cybersecurity Essentials,IBM,"Learn how to identify common cybersecurity threats, including malware, social engineering, breaches, and other attack vectors 
+
+Install software updates and patches, and apply authentication, encryption, and device-hardening techniques to protect sensitive information 
+
+Explore physical security, environmental safeguards, and access control measures used to prevent unauthorized access and ensure business continuity 
+
+Apply cybersecurity best practices using strong password creation and management strategies, and identify use cases for encryption ",2025-08-18,https://www.coursera.org/account/accomplishments/certificate/LYCVRJEUDMN1,11,
+Introduction to Cloud Computing,IBM,"Define cloud computing and explain essential characteristics, history, the business case for cloud, and the emerging technologies enabled by cloud
+
+Describe the cloud service models- IaaS, PaaS, SaaS, and cloud deployment models- Public, Private, Hybrid; explain cloud infrastructure components
+
+Explain emerging Cloud related trends including HybridMulticloud, Microservices, Serverless, Cloud Native, DevOps, and Application Modernization
+
+List and describe services of popular cloud platforms including AWS, Microsoft Azure, Google Cloud, IBM Cloud, Alibaba Cloud, and others",2025-08-18,https://www.coursera.org/account/accomplishments/certificate/PJCY8G4SL6DK,12,
+Practice Exam for CompTIA Tech+ Certification,IBM,"Practice and check your readiness for the CompTIA Tech+ Certification exam that tests your proficiency in IT fundamentals
+
+
+Describe the components of an OS, identify programming language categories, define programming & database concepts, and the interface methods used 
+
+
+Identify best security practices, including confidentiality, integrity, and availability concerns of secure devices, and describe IT concepts",2025-08-18,https://www.coursera.org/account/accomplishments/certificate/UFQEMYDDV6UD,13,
+Technical Support (IT) Case Studies and Capstone,IBM,"Describe processes and information related to IT Fundamentals in the context of providing technical support.
+
+Demonstrate systematic and effective troubleshooting and problem-solving skills.
+
+Use diagnostic tools and tracking systems to solve and log customer issues.
+
+Apply customer service skills and a customer support mindset, including conflict mitigation and de-escalation skills.",2025-08-18,https://www.coursera.org/account/accomplishments/certificate/8S45MRQB4POO,14,
+Tech Support Career Guide and Interview Preparation,IBM,"Summarize the basic functions and tasks of the technical support specialist role.
+
+Describe some career paths for technical support and the job prospects for the field.
+
+Review technical support fundamentals and refresh essential skills.
+
+Discover what to expect from a technical interview so you can come prepared.",2025-08-18,https://www.coursera.org/account/accomplishments/certificate/0Q5EOD1J9NU6,15,
+IBM IT Support Professional Certificate,IBM,"Master the most up-to-date practical skills and tools used by IT support professionals and how to apply them in an everyday professional setting
+
+Learn hardware and software skills that help users select, install, and configure their devices, operations systems, and applications
+
+Develop a strong IT foundation in topics including cybersecurity, networking, cloud, databases, and be prepared for CompTIA certification exams
+
+Practice customer service and troubleshooting skills by using ticketing systems, hands-on labs, demos, and interactive exercises",2025-08-18,https://www.coursera.org/account/accomplishments/professional-cert/PZ48M7WWCFQY,,2
+IT for Business Success,HP,"In this course, you will learn how to:
+
+Determine the types of technology solutions that best address your business goals. 
+Learn how different technologies directly and indirectly impact your business.
+Decide the best way to implement a technology solution given the circumstances of your specific business.
+",2024-12-25,https://www.life-global.org/certificate/783b5be3-4929-4aec-8743-6b76caec76a1,16,
+Business Communications,HP,"Learn why business communications are important and how to create a simple framework you can use to improve your business communication skills.  
+
+In this course, you will learn how to: 
+
+Identify the characteristics of effective business communications.
+Identify success factors for effective communication.
+Identify and analyze your target audience.
+Use communication mediums to effectively convey messages.",2024-12-26,https://www.life-global.org/certificate/24747475-cd92-4933-b3fa-7f1fd5989cab,17,
+Diploma in Information Technology Support,Alison Academy,"Identify some typical roles and responsibilities associated with IT support
+Assess and mitigate security risks by implementing appropriate measures to protect computer systems
+Explain the organisational importance of IT support
+Apply effective troubleshooting techniques to resolve technical issues as an IT support expert
+Select the appropriate cloud service models based on specific organisational requirements
+Recall different types of operating systems",2025-03-19,https://alison.com/verify/6022b72e34,18,
+Master Linux and Shell Script From Beginner to Advanced,Alison Academy,"Indicate the process of installing various Linux distributions in your machine
+List most commonly used Linux commands and their functions
+Define process in the context of Linux
+Outline the process to write short programs in Linux using the command line
+Explain various steps involved in creating and updating a file in Linux
+Order the sequence of steps used to download and install software packages in Linux
+Discuss the procedure to control or modify remote servers from your local machine
+Describe the use of shell script to automate different tasks
+Compare for loop and while loop
+Summarize different file management techniques in Linux",2025-03-16,https://alison.com/verify/c4cef191de,19,
+Soft Skills for Professionals,Alison Academy,"Evaluate your attitude and work ethic
+Describe the benefits of networking
+Outline the process for writing a great cover letter
+Explain how to understand the interview process
+Summarize strategies for moving the conversation along",2025-03-10,https://alison.com/verify/7007b3cf34,20,
+CS50P - Introduction to Programming with Python,Harvard CS50,"An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and ""debug"" it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.",2025-10-05,https://cs50.harvard.edu/certificates/b8de9a65-9910-4cf6-a9b5-694bd842ff17,21,
+CS50X - Introduction to Computer Science,Harvard CS50,"A broad and robust understanding of computer science and programming
+How to think algorithmically and solve programming problems efficiently
+Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
+Familiarity in a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
+How to engage with a vibrant community of like-minded learners from all levels of experience.
+How to develop and present a final programming project to your peers.",2026-01-27,https://cs50.harvard.edu/certificates/681f4298-0ccc-4ddb-aa56-2c2cd67a91b0,22,
